@@ -5,7 +5,7 @@ CREATE TABLE students(
 	age NUMERIC 
 );
 
-INSERT INTO student (id, firstname, lastname, age) 
+INSERT INTO students (id, firstname, lastname, age) 
 VALUES  
 (1, 'Fred', 'Flintstone', 35),
 (2, 'Wilma', 'Flintstone', 29),
