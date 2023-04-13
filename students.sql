@@ -19,3 +19,4 @@ VALUES
   (10, 'Akhilesh', 'Diwedi', 50), 
   (11, 'Anshul', 'Batish', 21),
   (12, 'Arushi', 'Agarwal', 19);
+
